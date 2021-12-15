@@ -1,19 +1,41 @@
 ### Hi there <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 
-My name is **Bruno Trindade**, I'm from Joinville, Brasil and I work as a Customer Success at CartPanda. 🐼
-<br>I'm giving my best to become a **FullStack Software Engineer**.
+My name is **Bruno Trindade**, I'm from Joinville, Brasil and I'm giving my best to become a **FullStack Software Engineer** (MERN).
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
-👨🏻‍💻 I'm currently learning about **Backend** now, since I've finished studying Frontend roadmap with **Javascript and React**.
-<!-- * 💬 You can ask me anything, it'll be a pleasure to help.
-* 📫 Please, send me an e-mail to brunotrndd@gmail.com whenever you want.
+👨🏻‍💻 I'm **Frontend Software Engineer** with Javascript and **React** knowledge, and I've just started to work on **Backend** roadmap.
+
+#### :star: Some fun facts!
+- I love Animes, especially One Piece. ☠️
+- I'm a dog father, I have a dalmatian. 🐶💙
+- I used to work with civil Engineering. 🧱
+
+<center><a href="https://github.com/btrndd" target="_blank">
+  <img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
+</a> 
+<a href="https://www.linkedin.com/in/brunotrndd/" target="_blank">
+  <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
+</a></center>
+
+##  :calendar: I'm currently  ...
+
+
+ #### :books: Learning
+ <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" /><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
  
+ - Besides: Deployment, VPS, CD/CI, Object Oriented Programming and SOLID.
 
-* 🔭 I’m currently working on ...
-* 👯 I’m looking to collaborate on ...
-* 🤔 I’m looking forward .
+#### :mortar_board: Graduating:
+Production Engineer Bachelor, in UFES (Federal University of Espírito Santo) with the intend to pursue a Computer Science or Systems Analises degree after!
 
-* 😄 Pronouns: ...
-* ⚡ Fun fact: ... -->
+#### :bar_chart: Working
+
+ - At [CartPanda](https://www.linkedin.com/company/cartpanda) as Customer Success. 🐼
+ 
+ <hr>
+
+ 💬 You can ask me anything, it will be a pleasure to help.<br><br>
+ 📫 Please, send me an e-mail to brunotrndd@gmail.com whenever you want.
+
 
