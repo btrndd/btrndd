@@ -40,7 +40,7 @@ Production Engineer Bachelor, in UFES (Federal University of Espírito Santo) wi
  
  <hr>
 
- 💬 You can ask me anything, it will be a pleasure to help.<br><br>
- 📫 Please, send me an e-mail to brunotrndd@gmail.com whenever you want.
+ #### 💬 You can ask me anything, it will be a pleasure to help.<br>
+ #### 📫 Please, send me an e-mail to brunotrndd@gmail.com whenever you want.
 
 
