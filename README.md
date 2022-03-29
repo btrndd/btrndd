@@ -37,7 +37,7 @@ Production Engineer Bachelor, in UFES (Federal University of Espírito Santo) wi
 
 #### :bar_chart: Working
 
- - At [CartPanda](https://www.linkedin.com/company/cartpanda) as Customer Success. 🐼
+ - At [Lyncas](https://www.linkedin.com/company/lyncasnet/) as Software Engineer.
  
  <hr>
 
