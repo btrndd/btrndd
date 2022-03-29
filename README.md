@@ -4,7 +4,7 @@ My name is **Bruno Trindade**, I'm from Joinville, Brasil and I'm giving my best
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
-👨🏻‍💻 I'm a **Frontend Software Engineer** with Javascript and **React** knowledge, and I'm a **Backend Software Engineer** with **ASP.NET**  and **Express with Typescript** knowlodge.
+👨🏻‍💻 I'm a **Frontend Software Engineer** with Javascript and **React** knowledge, and I'm a **Backend Software Engineer** with **ASP.NET**  and **Express/Typescript** knowlodge.
 
 #### ⚙️ Tech Stack
 
