@@ -4,7 +4,7 @@ My name is **Bruno Trindade** and I'm from Joinville, Brasil..
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
-👨🏻‍💻 I'm a **Backend Software Engineer** with **C# .NET**  and **Typescript** knowledge.
+👨🏻‍💻 I'm a **Backend Software Engineer** at [Zé Delivery](https://www.linkedin.com/company/zedelivery/).
 
 #### ⚙️ Tech Stack
 
@@ -15,21 +15,12 @@ My name is **Bruno Trindade** and I'm from Joinville, Brasil..
 - I'm a dog father, I have a dalmatian. 🐶💙
 - I used to work with civil Engineering. 🧱 -->
 
-<!-- <center><a href="https://github.com/btrndd" target="_blank">
+ <center><a href="https://github.com/btrndd" target="_blank">
   <img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
 </a> 
 <a href="https://www.linkedin.com/in/brunotrndd/" target="_blank">
   <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
-</a></center> -->
-
- <hr>
-
-#### :mortar_board: Graduation
-Production Engineer Bachelor, in UFES (Federal University of Espírito Santo) with the intend to pursue a Computer Science or Systems Analises degree after!
-
-#### :bar_chart: Working
-
- - At [Zé Delivery](https://www.linkedin.com/company/zedelivery/) as Backend Software Engineer.
+</a></center>
  
  <hr>
 
