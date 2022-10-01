@@ -4,7 +4,7 @@ My name is **Bruno Trindade** and I'm from Joinville, Brasil..
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
-👨🏻‍💻 I'm a **Backend Software Engineer** at [Zé Delivery](https://www.linkedin.com/company/zedelivery/).
+👨🏻‍💻 I'm a **Backend Software Engineer** at [Zé Delivery](https://www.linkedin.com/company/zedelivery/). 🍻
 
 #### ⚙️ Tech Stack
 
