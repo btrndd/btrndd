@@ -22,20 +22,14 @@ My name is **Bruno Trindade** and I'm from Joinville, Brasil..
   <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
 </a></center> -->
 
-##  :calendar: I'm currently  ...
+ <hr>
 
-
- #### :books: Learning
- <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
- 
- - Besides: Sockets, VPS.
-
-#### :mortar_board: Graduating:
+#### :mortar_board: Graduation
 Production Engineer Bachelor, in UFES (Federal University of Espírito Santo) with the intend to pursue a Computer Science or Systems Analises degree after!
 
 #### :bar_chart: Working
 
- - At [Lyncas](https://www.linkedin.com/company/lyncasnet/) as Software Engineer.
+ - At [Zé Delivery](https://www.linkedin.com/company/zedelivery/) as Backend Software Engineer.
  
  <hr>
 
