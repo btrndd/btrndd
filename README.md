@@ -1,10 +1,10 @@
 ### Hi there <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 
-My name is **Bruno Trindade**, I'm from Joinville, Brasil and I'm giving my best to become a **FullStack Software Engineer**.
+My name is **Bruno Trindade** and I'm from Joinville, Brasil..
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
-👨🏻‍💻 I'm a **Frontend Software Engineer** with Javascript and **React** knowledge, and I'm a **Backend Software Engineer** with **ASP.NET**  and **Express/Typescript** knowledge.
+👨🏻‍💻 I'm a **Backend Software Engineer** with **C# .NET**  and **Typescript** knowledge.
 
 #### ⚙️ Tech Stack
 
