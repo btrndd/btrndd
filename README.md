@@ -13,8 +13,8 @@ My name is **Bruno Trindade** and I'm from Joinville, Brasil..
 
  <hr>
 
- #### 💬 You can ask me anything, it will be a pleasure to help.<br>
- #### 📫 Please, send me an e-mail to brunotrndd@gmail.com whenever you want.
+ #### 💬 Feel free to contact me, it will be a pleasure to help.<br>
+ #### 📫 My e-mail: brunotrndd@gmail.com.
 
 <br>
  <center><a href="https://github.com/btrndd" target="_blank">
