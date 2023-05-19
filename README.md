@@ -13,7 +13,7 @@ My name is **Bruno Trindade** and I'm from Joinville, Brasil..
 
  <hr>
 
- #### 📫 My e-mail: brunotrndd@gmail.com.
+ #### 📫 My e-mail: bruno_trindade@icloud.com.
 
 <br>
  <center><a href="https://github.com/btrndd" target="_blank">
